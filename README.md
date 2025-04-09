@@ -1,2 +1,2 @@
-# Lab Class on Version Control System
+# CSE322: Computer Networks Sessional
 
